@@ -55,7 +55,9 @@ Do another calculation? (y/n): y
 * File-Based Storage
 * Unit Conversion Features
 
-## Author
+Learning Objective
+
+This project was built as part of my Java learning journey to strengthen my understanding of programming fundamentals, problem-solving, and code structure.
 
 Built as part of my Java learning journey.
 
